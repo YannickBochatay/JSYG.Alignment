@@ -237,8 +237,6 @@
         
         var method = "align" + alignment.charAt(0).toUpperCase() + alignment.substr(1);
         
-        console.log(method);
-        
         new Alignment(this)[method]();
     };
     
