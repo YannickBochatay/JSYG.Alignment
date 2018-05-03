@@ -5,15 +5,8 @@ Alignment plugin for JSYG framework
 [http://yannickbochatay.github.io/JSYG.Alignment/](http://yannickbochatay.github.io/JSYG.Alignment/)
 
 ### Installation
-
-##### with npm
 ```shell
 npm install jsyg-alignment
-```
-
-##### with bower
-```shell
-bower install jsyg-alignment
 ```
 
 ### Examples with webpack/babel

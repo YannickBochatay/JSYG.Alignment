@@ -1,6 +1,6 @@
 {
   "name": "jsyg-alignment",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Alignment plugin for JSYG framework",
   "main": "JSYG.Alignment.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/YannickBochatay/JSYG.Alignment#readme",
   "dependencies": {
-    "jsyg": "<2.0.0",
-    "jsyg-path": "<2.0.0"
+    "jsyg": "^1.0.2",
+    "jsyg-path": "^1.0.0"
   }
 }
